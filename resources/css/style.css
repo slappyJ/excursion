@@ -1,6 +1,38 @@
-h1 {
+body {
   font-family: verdana;
+  background-color: black;
+  text-align: center;
+}
+
+h1 {
   font-weight: normal;
   font-size: 50px;
-  text-align: center;
+  color: white;
+}
+
+h2 {
+  font-weight: 300;
+  font-size: 42px;
+}
+
+p a {
+  color: aquamarine;
+  font-size: 16px;
+}
+
+.remembers {
+  font-size: 21px;
+  color: gray;
+}
+
+.copyright {
+  text-align: right;
+  color: gray;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.personal {
+  font-weight: 300;
+  font-size: 42px;
 }
